@@ -1,0 +1,8 @@
+{
+    "name": "Horis Repository",
+    "description": "Horis Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/821938089/cloudstream-extensions/builds/plugins.json"
+    ]
+}
