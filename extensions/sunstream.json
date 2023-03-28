@@ -1,0 +1,8 @@
+{
+    "name": "Sunstream English Providers Repository",
+    "description": "FOR SUNSTREAM ONLY. DO NOT USE WITH CLOUDSTREAM",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://codeberg.org/oy87/sunstream-extensions/raw/branch/builds/plugins.json"
+    ]
+  }
