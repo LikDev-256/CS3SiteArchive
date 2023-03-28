@@ -1,0 +1,8 @@
+{
+    "name": "LikDev-256 Providers Repository",
+    "description": "Tamil and Indian language Providers",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://codeberg.org/JakeWasHere7/likdev256-tamil-providers/raw/branch/builds/plugins.json"
+    ]
+}
