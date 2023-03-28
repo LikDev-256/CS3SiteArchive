@@ -7,15 +7,15 @@
         "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json",
         "verified": true
     },
-    "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/hexa.json",
-    "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/repo.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/hexa.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/arab.json",
     "https://raw.githubusercontent.com/MustardChef/cs3xxx-repo/main/repo.json",
-    "https://cdn.discordapp.com/attachments/1010297805128077425/1089788959292395600/d-repo.json",
-    "https://codeberg.org/JakeWasHere7/likdev256-tamil-providers/raw/branch/builds/repo.json",
-    "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/kronch.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/drepo.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/likdev.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/kronch.json",
     "https://raw.githubusercontent.com/MustardChef/eddyarchive/master/repo.json",
-    "hhttps://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/storm.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/storm.json",
     "https://gitlab.com/dontseehere/cs3-repos/-/raw/main/repo.json",
-    "https://cdn.discordapp.com/attachments/1010297805128077425/1089775110858223637/horis-repo.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/horis.json",
     "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json"
 ]
