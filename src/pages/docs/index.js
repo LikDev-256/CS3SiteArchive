@@ -6,7 +6,7 @@ import SEO from "../../components/seo"
 
 const links = [
     {
-        "url": "https://docs.cloudstream.cf/",
+        "url": "https://mustardchef.github.io/csdocs/",
         "name": "Docs",
         "desc": "You will find all the help and information here."
     },
