@@ -1,10 +1,10 @@
 [
     {
-        "url": "https://codeberg.org/Stormunblessed/storm-ext/raw/branch/main/eng.json",
+        "url": "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/eng.json",
         "verified": true
     },
     {
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/repo.json",
+        "url": "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/multi.json",
         "verified": true
     },
     "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/hexa.json",
