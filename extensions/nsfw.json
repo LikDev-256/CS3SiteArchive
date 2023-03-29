@@ -1,0 +1,8 @@
+{
+    "name": "NSFW Providers",
+    "description": "For the coomers and degenerates",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/plugins.json"
+    ]
+}
