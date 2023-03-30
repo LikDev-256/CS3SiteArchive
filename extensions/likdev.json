@@ -3,6 +3,6 @@
     "description": "Tamil and Indian language Providers",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://codeberg.org/JakeWasHere7/likdev256-tamil-providers/raw/branch/builds/plugins.json"
+        "https://codeberg.org/LikDev-256/likdev256-cs3-extensions/raw/branch/builds/plugins.json"
     ]
 }
