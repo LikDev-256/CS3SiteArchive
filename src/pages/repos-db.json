@@ -1,22 +1,22 @@
 [
     {
-        "url": "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/eng.json",
+        "url": "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/eng.json",
         "verified": true
     },
     {
-        "url": "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/multi.json",
+        "url": "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/multi.json",
         "verified": true
     },
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/hexa.json",
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/arab.json",
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/nsfw.json",
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/drepo.json",
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/likdev.json",
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/kronch.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/hexa.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/arab.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/nsfw.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/drepo.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/likdev.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/kronch.json",
     "https://raw.githubusercontent.com/MustardChef/eddyarchive/master/repo.json",
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/storm.json",
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/dsh.json",
-    "https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/extensions/horis.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/storm.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/dsh.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/horis.json",
     "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json"
     
 ]
