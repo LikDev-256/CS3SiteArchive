@@ -17,7 +17,7 @@ const ReposPage = () => {
     const [hadError, setHadError] = useState(false);
     
     useEffect(() => {
-        fetch("https://codeberg.org/MustardChef/CS3SiteArchive/raw/branch/master/src/pages/repos-db.json")
+        fetch("https://pastebin.com/r6ZJ2SEY")
             .catch(err => { setHadError(true) })
             .then(r => r.json())
             .then(setRepos)
