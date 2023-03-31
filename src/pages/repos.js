@@ -17,7 +17,7 @@ const ReposPage = () => {
     const [hadError, setHadError] = useState(false);
     
     useEffect(() => {
-        fetch("https://pastebin.com/r6ZJ2SEY")
+        fetch("https://pastebin.com/raw/r6ZJ2SEY")
             .catch(err => { setHadError(true) })
             .then(r => r.json())
             .then(setRepos)
