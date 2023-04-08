@@ -3,6 +3,6 @@
     "description": "Cloudstream Arabic Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://codeberg.org/Mark_Eshia/arab/raw/branch/builds/plugins.json"
+      "https://arab-hnl6e7ta2pmy.runkit.sh/?path=/view/plugins.json"
     ]
   }
