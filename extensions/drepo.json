@@ -1,8 +1,8 @@
 {
-    "name": "Darkdemon Repo",
+    "name": "Darkdemon Repo (Maintained by Likdev)",
     "description": "Hindi Repository",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/plugins.json"
+        "https://github.com/LikDev-256/cs-darkdemon-extensions/blob/builds/plugins.json"
     ]
 }
